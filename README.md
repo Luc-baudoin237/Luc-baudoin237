@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Luc-baudoin237/Luc-baudoin237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description
+- 🔭 I’m currently working on large-scale health data standardization and analytics at Douala General Hospital (Cameroon) under the Data Science Without Borders (DSWB) initiative, using the OMOP Common Data Model and real-world clinical datasets (TB, HIV, respiratory diseases, hemodialysis).
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and advancing in machine learning, deep learning, and scalable AI systems for healthcare, with a strong focus on interpretable models (SHAP, ensemble learning) and reproducible research workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Objectives
+- 👯 I’m looking to collaborate on research projects involving AI in healthcare, clinical prediction models, health data systems (OMOP, DHIS2), and open-source global health initiatives.
+
+- 🤔 I’m looking for help with scaling AI solutions in low-resource settings, multi-site data integration, and advanced model validation for publication in high-impact journals.
+
+- 💬 Ask me about health data science, machine learning in healthcare, OMOP CDM, DHIS2, ETL pipelines, epidemiological analysis, or building dashboards (Power BI, Dash).
+## contact
+- 📫 How to reach me: Open to professional connections and collaborations via GitHub and LinkedIn.
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I combine clinical research, data engineering, and AI to solve real-world health problems across Africa — from hospital data pipelines to predictive models that support clinical decisions.
+
+
+
 -->
